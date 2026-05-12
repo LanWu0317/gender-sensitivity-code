@@ -1,0 +1,9 @@
+mean,p50,p5,p95,p25,p75,var,gender
+-7.59,-6.95,-18.30,0.01,-10.65,-5.06,Baseline,Male
+-22.38,-11.99,-86.56,-3.78,-23.49,-9.11,Baseline,Female
+-8.31,-8.70,-15.46,-0.13,-11.28,-6.57,Solely managed plots,Male
+-9.19,-3.98,-38.96,0.00,-15.14,-2.63,No spousal cooperation,Male
+-13.36,-9.54,-37.67,-0.16,-18.35,-6.78,Insecure land tenure,Male
+-25.23,-14.35,-91.92,-4.57,-26.69,-10.90,Solely managed plots,Female
+-24.28,-12.89,-88.25,-4.07,-30.02,-9.78,No spousal cooperation,Female
+-22.21,-12.31,-86.88,-3.69,-20.43,-9.31,Insecure land tenure,Female

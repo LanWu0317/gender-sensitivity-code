@@ -1,0 +1,57 @@
+﻿year,gap,legend
+2020,20.98,Baseline
+2030,23.29,Baseline
+2040,24.78,Baseline
+2050,25.88,Baseline
+2060,26.57,Baseline
+2070,27.85,Baseline
+2080,26.91,Baseline
+2090,27.67,Baseline
+2020,16.5,Multivariate
+2030,21.85,Multivariate
+2040,21.44,Multivariate
+2050,24.02,Multivariate
+2060,23.09,Multivariate
+2070,27.38,Multivariate
+2080,23.02,Multivariate
+2090,26.71,Multivariate
+2020,33.24,Solely managed plots
+2030,41.29,Solely managed plots
+2040,42.33,Solely managed plots
+2050,44.32,Solely managed plots
+2060,47.94,Solely managed plots
+2070,49.39,Solely managed plots
+2080,47.31,Solely managed plots
+2090,51.5,Solely managed plots
+2020,54.06,No spousal cooperation
+2030,56.79,No spousal cooperation
+2040,58.7,No spousal cooperation
+2050,60.13,No spousal cooperation
+2060,60.64,No spousal cooperation
+2070,62,No spousal cooperation
+2080,61.53,No spousal cooperation
+2090,62.53,No spousal cooperation
+2020,30.88,Absent-spouse households
+2030,68.89,Absent-spouse households
+2040,68.78,Absent-spouse households
+2050,73.59,Absent-spouse households
+2060,83.44,Absent-spouse households
+2070,85.23,Absent-spouse households
+2080,80.55,Absent-spouse households
+2090,88.88,Absent-spouse households
+2020,67.77,Insecure land tenure
+2030,69.63,Insecure land tenure
+2040,72.19,Insecure land tenure
+2050,73.88,Insecure land tenure
+2060,73.35,Insecure land tenure
+2070,75.15,Insecure land tenure
+2080,74.78,Insecure land tenure
+2090,74.89,Insecure land tenure
+2020,38.51,Left with less fertile land
+2030,41.81,Left with less fertile land
+2040,43.71,Left with less fertile land
+2050,45.52,Left with less fertile land
+2060,45.96,Left with less fertile land
+2070,47.81,Left with less fertile land
+2080,46.7,Left with less fertile land
+2090,47.91,Left with less fertile land
