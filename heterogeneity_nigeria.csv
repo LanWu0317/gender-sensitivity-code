@@ -1,0 +1,41 @@
+var,coef,se,lower,upper,legend
+1st decile,0,0,0,0,Plot size
+2nd decile,-0.0083,0.0182,-0.043972,0.027372,Plot size
+3rd decile,0.0498,0.0955,-0.13738,0.23698,Plot size
+4th decile,-0.0157,0.0142,-0.043532,0.012132,Plot size
+5th decile,0.0091,0.0162,-0.022652,0.040852,Plot size
+6th decile,-0.0204,0.021,-0.06156,0.02076,Plot size
+7th decile,-0.0182,0.0099,-0.037604,0.001204,Plot size
+8th decile,-0.0088,0.0197,-0.047412,0.029812,Plot size
+9th decile,0.0345,0.0309,-0.026064,0.095064,Plot size
+10th decile,-0.0381,0.0124,-0.062404,-0.013796,Plot size
+1st quantile,-0.0104,0.0078,-0.025688,0.004888,Productivity
+2nd quantile,-0.0027,0.0086,-0.019556,0.014156,Productivity
+3rd quantile,0.0024,0.0081,-0.013476,0.018276,Productivity
+4th quantile,-0.0144,0.0066,-0.027336,-0.001464,Productivity
+5th quantile,-0.0088,0.0084,-0.025264,0.007664,Productivity
+Intercrop,-0.0265,0.0113,-0.048648,-0.004352,Management
+Monocrop,-0.0202,0.0102,-0.040192,-0.000208,Management
+Female-headed,-0.0135,0.029,-0.07034,0.04334,Management
+Male-headed,-0.0248,0.0103,-0.044988,-0.004612,Management
+Joint decision,-0.0154,0.0173,-0.049308,0.018508,Management
+Sole manager,-0.0248,0.0091,-0.042636,-0.006964,Management
+Maize,0.0237,0.0315,-0.03804,0.08544,Crop type
+Sorghum,-0.0046,0.0149,-0.033804,0.024604,Crop type
+Millet,-0.0084,0.0157,-0.039172,0.022372,Crop type
+Cowpea,-0.0225,0.0147,-0.051312,0.006312,Crop type
+Rice,-0.0799,0.0246,-0.128116,-0.031684,Crop type
+Age 30-40 (1970s),-0.005,0.0952,-0.191592,0.181592,Age cohort
+Age 40-50 (1960s),0.0146,0.0475,-0.0785,0.1077,Age cohort
+Age 50-60 (1950s),-0.0566,0.0414,-0.137744,0.024544,Age cohort
+Female heads,-0.051,0.0222,-0.094512,-0.007488,Position
+Wives of heads,-0.0262,0.0108,-0.047368,-0.005032,Position
+Junior male,-0.0139,0.0069,-0.027424,-0.000376,Position
+Junior female,0.0144,0.012,-0.00912,0.03792,Position
+Low machine value,-0.0262,0.0118,-0.049328,-0.003072,Capital goods
+High machine value,-0.0266,0.0132,-0.052472,-0.000728,Capital goods
+Within 5000 m,-0.0217,0.0095,-0.04032,-0.00308,Location
+Within 3500 m,-0.022,0.0099,-0.041404,-0.002596,Location
+Within 1500 m,-0.0147,0.0119,-0.038024,0.008624,Location
+Within 1000 m,-0.0137,0.0104,-0.034084,0.006684,Location
+Within 500 m,-0.0035,0.0117,-0.026432,0.019432,Location

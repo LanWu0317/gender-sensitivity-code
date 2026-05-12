@@ -1,0 +1,43 @@
+var,coef,se,lower,upper,legend
+1st decile,-0.0073,0.0012,-0.009652,-0.004948,Plot size
+2nd decile,-0.0058,0.0013,-0.008348,-0.003252,Plot size
+3rd decile,-0.0045,0.0014,-0.007244,-0.001756,Plot size
+4th decile,-0.003,0.0013,-0.005548,-0.000452,Plot size
+5th decile,-0.0039,0.0013,-0.006448,-0.001352,Plot size
+6th decile,-0.0023,0.0013,-0.004848,0.000248,Plot size
+7th decile,-0.0004,0.0012,-0.002752,0.001952,Plot size
+8th decile,-0.0003,0.0011,-0.002456,0.001856,Plot size
+9th decile,0.0003,0.0011,-0.001856,0.002456,Plot size
+10th decile,-0.0034,0.0011,-0.005556,-0.001244,Plot size
+1st quantile,-0.0006,0.0006,-0.001776,0.000576,Productivity
+2nd quantile,-0.0029,0.0005,-0.00388,-0.00192,Productivity
+3rd quantile,-0.0007,0.0005,-0.00168,0.00028,Productivity
+4th quantile,0.0005,0.0004,-0.000284,0.001284,Productivity
+5th quantile,0.0011,0.0006,-7.60E-05,0.002276,Productivity
+Intercrop,-0.0028,0.0022,-0.007112,0.001512,Management
+Monocrop,-0.0036,0.0007,-0.004972,-0.002228,Management
+Female-headed,-0.0009,0.0013,-0.003448,0.001648,Management
+Male-headed,-0.0042,0.0008,-0.005768,-0.002632,Management
+Joint decision,-0.0039,0.0008,-0.005468,-0.002332,Management
+Sole manager,-0.0034,0.0008,-0.004968,-0.001832,Management
+Maize,-0.0063,0.002,-0.01022,-0.00238,Crop type
+Sorghum,0.0006,0.0015,-0.00234,0.00354,Crop type
+Millet,0.0031,0.0011,0.000944,0.005256,Crop type
+Cowpea,0.0041,0.0018,0.000572,0.007628,Crop type
+Groundnut,0.0019,0.001,-6.00E-05,0.00386,Crop type
+Age < 30 (1980s later),-0.0037,0.0017,-0.007032,-0.000368,Age cohort
+Age 30-40 (1970s),-0.0045,0.0014,-0.007244,-0.001756,Age cohort
+Age 40-50 (1960s),-0.002,0.0017,-0.005332,0.001332,Age cohort
+Age 50-60 (1950s),-0.002,0.0015,-0.00494,0.00094,Age cohort
+Age >= 60 (1940s earlier),-0.0053,0.0018,-0.008828,-0.001772,Age cohort
+Female heads,-0.0019,0.0009,-0.003664,-0.000136,Position
+Wives of heads,-0.0036,0.0009,-0.005364,-0.001836,Position
+Junior male,-0.0018,0.0008,-0.003368,-0.000232,Position
+Junior female,-0.0065,0.0012,-0.008852,-0.004148,Position
+Wives farming < 2,-0.0035,0.0009,-0.005264,-0.001736,Cooperation
+Wives farming >= 2,-0.0002,0.0016,-0.003336,0.002936,Cooperation
+Within 5000 m,-0.0035,0.0007,-0.004872,-0.002128,Location
+Within 3500 m,-0.0039,0.0008,-0.005468,-0.002332,Location
+Within 1500 m,-0.0043,0.0011,-0.006456,-0.002144,Location
+Within 1000 m,-0.0037,0.0012,-0.006052,-0.001348,Location
+Within 500 m,-0.0026,0.0017,-0.005932,0.000732,Location
