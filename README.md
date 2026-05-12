@@ -7,7 +7,10 @@ Replication code for working paper on gender differentials in agricultural sensi
 - "SSA_regression.do": Stata scripts used to run cross-sectional regressions for estimating gendered impacts of extreme heat on smallholder agriculture across 7 SSA countries. 
 
 ## Cleaning and Harmonizing
-- The "\Data cleaning" directory includes 8 do-files used for cleaning and harmonizing nationwide survey data from Ethiopia, Nigeria, Malawi, Mali, Niger, Tanzania, and Uganda. 
+- The "\Data cleaning" directory includes 7 do-files used for cleaning and harmonizing nationwide survey data from Ethiopia, Nigeria, Malawi, Mali, Niger, Tanzania, and Uganda. 
 
-- "HP_dataset_merge.do": Stata scripts for merging the harmonized panel dataset by Bentze and Wollburg (2025) with our analysis dataset. (DOI:
-https://doi.org/10.1038/s41597-025-05639-9)
+## Results in Figures
+- Estimates from temperature bin regressions
+- Estimated log change in input use dynamics
+- Heterogeneity and robustness checks
+- Mechanisms and projections
