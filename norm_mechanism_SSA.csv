@@ -1,0 +1,10 @@
+var,legend,coef,se,lower95,upper95,lower90,upper90
+Unmarried,Marital status,-0.0034,0.0032,-0.009672,0.002872,-0.008664,0.001864
+Polygamous,Marital status,-0.0001,0.0009,-0.001864,0.001664,-0.0015805,0.0013805
+Separated,Marital status,-0.0005,0.0016,-0.003636,0.002636,-0.003132,0.002132
+Dependency ratio,Family caring,-0.001,0.0003,-0.001588,-0.000412,-0.0014935,-0.0005065
+Depdency ratio for age cohort < 30,Family caring,-0.0008,0.001,-0.00276,0.00116,-0.002445,0.000845
+Depdency ratio for age cohort 30-40,Family caring,-0.0014,0.0009,-0.003164,0.000364,-0.0028805,8.05E-05
+Depdency ratio for age cohort 40-50,Family caring,-0.0023,0.0008,-0.003868,-0.000732,-0.003616,-0.000984
+Depdency ratio for age cohort 50-60,Family caring,0.0006,0.001,-0.00136,0.00256,-0.001045,0.002245
+Depdency ratio for age cohort >= 60,Family caring,-0.001,0.0005,-0.00198,-2.00E-05,-0.0018225,-0.0001775

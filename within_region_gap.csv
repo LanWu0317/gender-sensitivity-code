@@ -1,0 +1,5 @@
+var,legend,coef,se,lower95,upper95,lower90,upper90
+Within-region gap in access to extension service,Full sample,-0.0387,0.0135,-0.06516,-0.01224,-0.0609075,-0.0164925
+Within-region gap in access to extension service,Married sample,-0.0465,0.0272,-0.099812,0.006812,-0.091244,-0.001756
+Within-region gap in control over market earnings,Full sample,-0.0697,0.0548,-0.177108,0.037708,-0.159846,0.020446
+Within-region gap in control over market earnings,Married sample,-0.1154,0.0312,-0.176552,-0.054248,-0.166724,-0.064076
